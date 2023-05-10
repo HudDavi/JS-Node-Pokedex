@@ -3,7 +3,7 @@ import pokeApi from './ApiPokemons.js';
 const list = document.getElementById('list')
 const button = document.getElementById('button')
 
-const maxRecords = 151
+const maxRecords = 600
 const limit = 20
 let offset = 0;
 
